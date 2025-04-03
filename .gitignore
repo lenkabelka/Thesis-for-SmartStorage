@@ -1,0 +1,37 @@
+# Log files and auxiliary files generated during compilation
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.run.xml
+*.nav
+*.snm
+
+# PDF and PostScript files
+*.pdf
+*.dvi
+*.ps
+
+# Cached files from TeXShop (macOS)
+*.synctex
+*.synctex(busy)
+
+# Bibliography files
+*.bbl
+*.blg
+
+# Editor backup and swap files
+*.swp
+*.swo
+*.bak
+*~
+
+# Build directory (if used)
+_build/
